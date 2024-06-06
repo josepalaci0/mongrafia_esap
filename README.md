@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Esta monografía presenta sel Trabajo de monografía para optar al título de Administrador Público. El documento está organizado de manera que proporciona un análisis detallado y resultados obtenidos a través de metodologías rigurosas. El repositorio incluye el informe final y dos carpetas de anexos que contienen referencias y material de producción propia utilizado durante la investigación.
+Esta monografía presenta el - **`Trabajo de monografía para optar al título de Administrador Público`**. El documento está organizado de manera que proporciona un análisis detallado y resultados obtenidos a través de metodologías rigurosas. El repositorio incluye el informe final y dos carpetas de anexos que contienen referencias y material de producción propia utilizado durante la investigación.
 
 ## Contenido del Repositorio
 
