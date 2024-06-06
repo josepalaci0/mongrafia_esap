@@ -36,11 +36,7 @@ Esta carpeta contiene todas las referencias en formato PDF utilizadas en el estu
 - **`juan_godoy_visor_jats.pdf`**
 - **`revestudsoc-23193.pdf`**
 
-## Navegar por las Carpetas
 
-- Accede a la carpeta principal para encontrar el informe final (`informe_final.docx`).
-- Dentro de la carpeta `anexos` encontrarás todos los documentos de referencia.
-- En la carpeta `anexos propios` se encuentran los materiales de producción propia utilizados en la metodología.
 
 ## Contribuciones
 
