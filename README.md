@@ -40,17 +40,17 @@ Esta carpeta contiene todas las referencias en formato PDF utilizadas en el estu
 
 ## Contribuciones
 
-Este proyecto es una monografía de grado finalizada y no está abierto a contribuciones adicionales. No obstante, cualquier comentario o sugerencia es bienvenido y puede ser enviado al autor.
+La investigación permitirá obtener un mayor entendimiento sobre los efectos del cultivo de café en el nivel socioeconómico de la comunidad, brindando información relevante y actualizada sobre esta temática específica. Esto contribuirá a la generación de conocimiento en el ámbito académico y científico, y podrá servir como base para futuras investigaciones y estudios relacionados.
 
 ## Contacto
 
 Para cualquier consulta o comentario, puedes contactar al autor:
 
-- **Nombre:** Jose Palacio
-- **Correo Electrónico:** josepalaci0@example.com
+- **Nombre:** JOSE GREGORIO PALACIO SANCHEZ
+- **Correo Electrónico:** JOSE.PALACIO@ESAP.EDU.CO
 
 ## Agradecimientos
 
-Quiero agradecer a [nombre de la institución], a mis profesores y compañeros de clase, y a todos aquellos que han contribuido de alguna manera a la realización de este proyecto.
+Quiero agradecer a ESCUELA SUPERIOR DE ADMINISTRACION PUBLICA, a mis profesores y compañeros de clase, y a todos aquellos que han contribuido de alguna manera a la realización de este proyecto.
 
 
