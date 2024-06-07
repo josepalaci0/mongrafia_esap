@@ -7,7 +7,7 @@ Esta monografía presenta el - **`Trabajo de monografía para optar al título d
 ## Contenido del Repositorio
 
 ### 1. Informe Final
-- **`5.Modelo para informes y trabajo final (Segundo informe).docx`**: Documento principal que contiene la introducción, metodología, análisis de datos, resultados, conclusiones y recomendaciones de la investigación.
+- **`5.Modelo para informes y trabajo final (informe final).docx`**: Documento principal que contiene la introducción, metodología, análisis de datos, resultados, conclusiones y recomendaciones de la investigación.
 
 ### 2. Anexos
 
